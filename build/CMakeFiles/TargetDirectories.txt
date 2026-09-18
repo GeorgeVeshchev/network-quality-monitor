@@ -1,0 +1,3 @@
+/Users/arseniy/network-quality-monitor/build/CMakeFiles/network_scanner.dir
+/Users/arseniy/network-quality-monitor/build/CMakeFiles/edit_cache.dir
+/Users/arseniy/network-quality-monitor/build/CMakeFiles/rebuild_cache.dir
