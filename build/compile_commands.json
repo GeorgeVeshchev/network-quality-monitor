@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/arseniy/network-quality-monitor/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniy/network-quality-monitor/scanner-core/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/network_scanner.dir/src/main.cpp.o -c /Users/arseniy/network-quality-monitor/scanner-core/src/main.cpp",
+  "file": "/Users/arseniy/network-quality-monitor/scanner-core/src/main.cpp",
+  "output": "CMakeFiles/network_scanner.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/arseniy/network-quality-monitor/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniy/network-quality-monitor/scanner-core/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/network_scanner.dir/src/thread_pool.cpp.o -c /Users/arseniy/network-quality-monitor/scanner-core/src/thread_pool.cpp",
+  "file": "/Users/arseniy/network-quality-monitor/scanner-core/src/thread_pool.cpp",
+  "output": "CMakeFiles/network_scanner.dir/src/thread_pool.cpp.o"
+},
+{
+  "directory": "/Users/arseniy/network-quality-monitor/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniy/network-quality-monitor/scanner-core/include -g -std=gnu++17 -arch arm64 -o CMakeFiles/network_scanner.dir/src/scanner.cpp.o -c /Users/arseniy/network-quality-monitor/scanner-core/src/scanner.cpp",
+  "file": "/Users/arseniy/network-quality-monitor/scanner-core/src/scanner.cpp",
+  "output": "CMakeFiles/network_scanner.dir/src/scanner.cpp.o"
+}
+]

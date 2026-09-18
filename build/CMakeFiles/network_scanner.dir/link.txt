@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/network_scanner.dir/src/main.cpp.o CMakeFiles/network_scanner.dir/src/thread_pool.cpp.o CMakeFiles/network_scanner.dir/src/scanner.cpp.o -o network_scanner
