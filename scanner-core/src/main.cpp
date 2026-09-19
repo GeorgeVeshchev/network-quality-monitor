@@ -3,7 +3,7 @@
 
 int main(int argc, char* argv[]){
     int threads = 4;
-    std::string hosts_arg = " ";
+    std::string hosts_arg = "";
 
     for(int i = 1; i < argc; ++i){
         std::string arg = argv[i];
