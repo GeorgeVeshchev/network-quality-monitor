@@ -1,4 +1,4 @@
-build/
+scanner-core/build/
 node_modules/
 dist/
 .env
