@@ -1,4 +1,7 @@
 build/
+*.o
+*.out
+network_scanner
 node_modules/
 dist/
 .env
