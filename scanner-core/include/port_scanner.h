@@ -3,6 +3,7 @@
 #include <vector>
 #include <cstdlib>
 #include <future>
+#include <nlohmann/json.hpp>
 #include "thread_pool.h"
 
 namespace scanner{
@@ -10,6 +11,8 @@ namespace scanner{
         uint16_t port;
         bool is_open;
     };
+
+    NLOHMANN_DEFINE_TYPE_NON_INTRUSIVE(ScanResult, port, is_open)   
 
     class PortScanner{
         public:
